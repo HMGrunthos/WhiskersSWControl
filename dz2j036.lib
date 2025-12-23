@@ -1,8 +1,8 @@
-Spice Parameter
-Semiconductor Company, Panasonic Corporation
-Product No. DZ2J036
-Device Type : Zener Diode
-Date : 2009/09/28
+*Spice Parameter
+*Semiconductor Company, Panasonic Corporation
+*Product No. DZ2J036
+*Device Type : Zener Diode
+*Date : 2009/09/28
 
 *DEVICE=DZ2J036,D
 * DZ2J036 D model
